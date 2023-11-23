@@ -1,5 +1,4 @@
 unsigned char max_byte(unsigned short number) {
-<<<<<<< HEAD
     int a;
     a=number;
     int x15,x14,x13,x12,x11,x10,x9,x8,x7,x6,x5,x4,x3,x2,x1,x0;
@@ -29,7 +28,5 @@ unsigned char max_byte(unsigned short number) {
         return s;
     else 
         return f;
-=======
->>>>>>> bc5aec3bc96320b25e727767eda9d9f4819aa9eb
     return 0; // Not implementation
 }
